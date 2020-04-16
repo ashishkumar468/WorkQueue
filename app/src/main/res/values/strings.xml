@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkQueue</string>
+    <string name="perform_first_task">Perform First Task</string>
+    <string name="perform_second_task">Perform Second Task</string>
+</resources>
