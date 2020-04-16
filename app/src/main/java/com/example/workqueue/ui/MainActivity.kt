@@ -5,8 +5,8 @@ import android.graphics.BitmapFactory
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.workqueue.R
-import com.example.workqueue.worker.ServiceWorker
-import com.example.workqueue.worker.Task
+import com.example.serviceworker.worker.ServiceWorker
+import com.example.serviceworker.worker.Task
 import kotlinx.android.synthetic.main.activity_main.*
 import okhttp3.OkHttpClient
 import okhttp3.Request

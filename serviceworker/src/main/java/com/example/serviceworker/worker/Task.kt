@@ -1,4 +1,4 @@
-package com.example.workqueue.worker
+package com.example.serviceworker.worker
 
 import android.util.Log
 import java.lang.Exception

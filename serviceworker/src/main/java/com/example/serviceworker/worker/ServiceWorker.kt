@@ -1,4 +1,4 @@
-package com.example.workqueue.worker
+package com.example.serviceworker.worker
 
 import android.os.Handler
 import android.os.HandlerThread
