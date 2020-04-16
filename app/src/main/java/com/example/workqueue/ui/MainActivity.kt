@@ -61,4 +61,10 @@ class MainActivity : AppCompatActivity() {
             }
         })
     }
+
+    override fun onStop() {
+        super.onStop()
+        serviceWorker1.quitSafely()
+        serviceWorker2.quitSafely()
+    }
 }
